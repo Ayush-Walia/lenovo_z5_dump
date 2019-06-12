@@ -1,0 +1,5 @@
+#Using the format "componentname=1or2" to add one item
+#1(close), 2(open)
+com.tencent.mm/com.tencent.mm.plugin.sns.ui.SnsBrowseUI=2
+com.tencent.mm/com.tencent.mm.ui.chatting.gallery.ImageGalleryUI=2
+com.tencent.mm/com.tencent.mm.plugin.subapp.ui.gallery.GestureGalleryUI=2

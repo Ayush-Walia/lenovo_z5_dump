@@ -1,0 +1,9 @@
+system   common         com.service.usbhelper       e139520876a23a858218a8f780ddbeea
+system   market         com.market.chenxiang        68cc97731dc35f2685dd3463e7467a9d
+system   Browser       com.browser2345              d7280c59309397417b52a173d4203146
+data   mobilesafe    com.qihoo360.mobilesafe      e909a4bcedd2ed8d39b9ef0461c3b160
+data   search        com.sogou.activity.src       7e5da3eadefe05feac720a7e38a41d52
+data   store          com.qihoo.appstore         5d7c319fe156f0cfdfe3cd1be9035456
+data     minimap        com.autonavi.minimap           0002d1317a5f47520d75ff97fdde5b24
+app=/system/priv-app
+dataapp=/system/preinstall

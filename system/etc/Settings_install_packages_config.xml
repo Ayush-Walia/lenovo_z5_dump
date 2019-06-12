@@ -1,0 +1,15 @@
+<!--
+    Copyright (C) 2019 Lenovo Inc.
+    All Rights Reserved.
+
+    Define the packages which need be updated, reinstalled or removed by Settings after OTA.
+    Ps: reinstall mean: uninstall, and then install.
+
+    condition:
+    (1) "path" should be an absolute path of apk file;
+    (2) "action" can be one of "update/reinstall/remove";
+    (2) When "action" is "remove", path will be ignore. Set it to path="";
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+        <package path="" name="com.lenovo.gameassistant" action="remove"/>
+</resources>

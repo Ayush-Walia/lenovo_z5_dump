@@ -1,0 +1,13 @@
+#Using the format "packagename=1or2" to add one item
+#1(close), 2(open)
+com.zui.camera=2
+com.lenovo.leos.appstore=2
+com.motorola.camera.faceu=2
+com.zui.camera.pailitao=2
+com.zui.camera.plugin.dolphin=2
+com.zui.filemanager=2
+com.zui.callsettings=2
+com.zui.launcher=2
+com.android.systemui=2
+com.zui.utouchcore=2
+com.zui.gallery=2
